@@ -1,0 +1,35 @@
+details{
+    text-align: center;
+    font-family: fantasy;
+}
+a{
+    font-family: fantasy;
+}
+body{
+  background-color: grey;
+}
+
+.btn {
+  box-shadow: 3px 4px 0px 0px #ac9ae6;
+  background:linear-gradient(to bottom, #7f0fab 5%, #6938f0 100%);
+  background-color:#7f0fab;
+  border-radius:18px;
+  border:1px solid #6f1bbd;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:47px;
+  font-weight:bold;
+  padding:14px 68px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #1c7fd6;
+}
+.btn:hover {
+background:linear-gradient(to bottom, #6938f0 5%, #7f0fab 100%);
+background-color:#6938f0;
+}
+.btn:active {
+position:relative;
+top:1px;
+}
