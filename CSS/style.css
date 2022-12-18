@@ -7,7 +7,7 @@ a{
 }
 body{
   
-  background-image: linear-gradient(purple, red);
+  background-color: linear-gradient(purple, red);
 }
 
 .btn {
