@@ -9,6 +9,9 @@ body{
   background-color: grey;
 
 }
+html{
+background-image: linear-gradient(purple, red);
+}
 
 .btn {
   box-shadow: 3px 4px 0px 0px #ac9ae6;
