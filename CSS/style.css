@@ -6,6 +6,7 @@ a{
     font-family: Arial;
 }
 body{
+  background-color: grey;
   background-image: linear-gradient(purple, red);
 }
 
