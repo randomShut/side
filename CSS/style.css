@@ -6,8 +6,8 @@ a{
     font-family: Arial;
 }
 body{
-  
-  background-color: linear-gradient(purple, red);
+  background-color: grey;
+  background-image: linear-gradient(purple, red);
 }
 
 .btn {
