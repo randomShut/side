@@ -6,7 +6,7 @@ a{
     font-family: Arial;
 }
 body{
-  background:linear-gradient(purple,red);
+  background: linear-gradient(to right, #7b2cb3, #d50c5c);
 }
 
 .btn {
